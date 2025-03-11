@@ -1,0 +1,91 @@
+*** Introduction to Computer ***
+---------------------------------
+
+# Note : C is a hardware interact Language.
+
+Qu - What is computer?
+Ans - 
+    1. Computer is machine / device which compute data.
+    2. Data can be:
+        i. Binary Data (0/1) - Binary Digit (Bit)
+        ii. Physical Phenomena (like speed, temperature, pressure, voltage, petrol and other hydraulic entities etc.)
+
+
+Qu  - Types of Computer?
+Ans -
+    1. Digital Computer
+    2. Analog Computer
+    3. Hybrid Computer
+
+1. Digital Computer 
+---------------------
+    * They work on binary digit (bit).
+    * Data can be text, number, audio, video, image.
+    * First, computer convert it in bits then work on it.
+
+    Advantage.
+    * Accuracy
+    * Speed
+
+    Disadvantage.
+    * Can't compute physical phenomena 
+
+    Example.
+    * Desktop, laptop, mobile, calculator, etc.
+
+2. Analog Computer
+----------------------
+    * They work on physical phenomena
+    * It can be speed, temperature, pressure, voltage, petrol and hydraulic entities etc.
+
+    Advantage.
+    * They can compute physical phenomena
+
+    Disadvantage.
+    * less accurate
+    * slow in speed
+
+    Example.
+    * Thermameter, Voltmeter, speedometer, barrometer, etc.
+
+
+3. Hybrid Computer
+----------------------
+    * It's combination of digital and analog computer.
+    * It compute the physical phenomena then converts result in digital.
+
+    Example.
+    * Digital Thermameter, Digital Voltmeter, Digital speedometer, Digital barrometer, etc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+** Concept of Digital Computer **
+----------------------------------
+** How Digital Computer Works **
+----------------------------------
+** Software and its Development **
+----------------------------------
+** Computer Programming Languages **
+----------------------------------
+** Assembly Language and Assembler **
+----------------------------------
+** Compiler and Interpreter **
+----------------------------------
+** C Compiler and IDE **
+----------------------------------
