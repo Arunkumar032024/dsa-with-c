@@ -57,26 +57,33 @@ Ans -
     Example.
     * Digital Thermameter, Digital Voltmeter, Digital speedometer, Digital barrometer, etc.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+*********************************************************************************************
 
 
 
 ** Concept of Digital Computer **
 ----------------------------------
+
+Qu :- What is Digital Computer?
+Ans :- Digital Computer is an eletronic machine which accept data in input process it and produce informatation in output.
+
+
+Types of device :-
+    1. Human 
+    2. Non - Human (Fuel or Electrical)
+
+    2. Non - Human :-
+        i. Mechanical 
+        ii. Non - Mechanical (AC | DC)
+
+        ii. Non - Mechanical :-
+            a. Electrical (AC) Symbol :- (~)
+            b. Electronics (DC) Symbol :- (___)
+                                          (...)
+
+
+
+
 ** How Digital Computer Works **
 ----------------------------------
 ** Software and its Development **
